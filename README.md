@@ -1,7 +1,9 @@
-<h1 align="center">Guitar-Shop-Inventory
-</h1>
-<p align="center">Performed CRUD operations using PHP and MySQL with a team of 3 members to maintain updated records
-</p>
+<h1 align="center">Guitar-Shop-Inventory</h1>
+
+<p align="center"><b>📇 Details </b></p>
+<p align="center">Performed CRUD operations with a team of 3 members to maintain updated records</p>
+<p align="center">Conducted queries on the my_guitar_shop database, which stores customer information and the inventory of a theoretical guitar store</p>
+<p align="center">Developed databases that support a small-scale non-trivial web-enabled application</p>
 
 ## 👷 Built With
 
@@ -10,16 +12,13 @@
 - [Visual Studio Code](https://code.visualstudio.com "Visual Studio Code"): Code Editor
 - [Github](https://github.com/ "Github"): Repo Storage and source code management
 
-## 📇 Details
-- Performed CRUD operations with a team of 3 members to maintain updated records
-- Conducted queries on the my_guitar_shop database, which stores customer information and the inventory of a theoretical guitar store
-- Developed databases that support a small-scale non-trivial web-enabled application
-
+## 📚 Article
+- [Medium](https://medium.com/@tejat/guitar-store-inventory-7f6f836b547a "Click me to read my Medium article!")
 
 ## 🧑🏻 Author
 
 **Teja Tammali**
 
-- [Profile](https://github.com/tejatammali "Teja Tammali")
-- [Email](mailto:teja.tammali0@gmail.com?subject=Hello "Hello!")
-- [Linkedin](https://www.linkedin.com/in/tejatammali/ "Welcome")
+- [Profile](https://github.com/tejatammali "Teja's Github Profile")
+- [Email](mailto:teja.tammali0@gmail.com?subject=Hello "Hey, email me!")
+- [Linkedin](https://www.linkedin.com/in/tejatammali/ "Welcome to my linkedin!")
