@@ -5,23 +5,28 @@ This project aims to design a small-scale non-trivial web-enabled application on
 ## 📇 Details 
 The concept of the project is to demonstrate the basic data manipulation of databases. The team will perform CRUD (Create, Read, Update, and Delete) operations using PHP and MySQL. We will conduct this essential operation on the my_guitar_shop database, which stores all the customer’s information and the inventory of a theoretical store. In fact, because of the store’s online and in-store sales, there is a need for the shop to keep its inventory information and customers accurate and up to date. This is why our project will create a small application that anyone, regardless of programming background, could use to perform CRUD operations and maintain the entire database.
 
+## Screenshots
+
 ![image](https://miro.medium.com/max/1400/0*_1uoIdxy_o6DydXx)
-> My_guitar_shop DB in PHPmyAdmin 1
+`My_guitar_shop DB in PHPmyAdmin 1`
 
 ![SCR-20220908-l3b](https://user-images.githubusercontent.com/51298329/189206462-956534cb-327b-4665-8af6-96b53c5660b9.png)
-> Create Functions for Products
+`Create Functions for Products`
 
 ![image](https://miro.medium.com/max/1400/0*SYuyIgBDX4XFQ_OF)
-> Table View for Products
+`Table View for Products`
 
 ![image](https://miro.medium.com/max/1400/0*-4Y7pOwUIrDck0zC)
-> Update Form
+
+`Update Form`
 
 <img width="378" alt="image" src="https://user-images.githubusercontent.com/51298329/189206607-f936e6b1-8d06-4106-a708-11411aa0c426.png">
-> Delete Entry Selector
+
+`Delete Entry Selector`
 
 <img width="692" alt="image" src="https://user-images.githubusercontent.com/51298329/189206672-9b25e020-43ca-4c3f-b47f-683f7f8a753d.png">
-> Final Delete Page
+
+`Final Delete Page`
 
 ## 🚫 Lessons Learned
 Overall, we learned how to create a web-based application using PHP and MySQL effectively. More importantly, we now better understand the concept of a primary key in the database. You cannot delete a primary key from one table without removing all the dependencies that other tables have on that key. While the class was focused on PHP, most of the team picked up a lot of new knowledge regarding SQL operations and database design management. We also learned how to make the code modular and recyclable to program and debug efficiently. Much of the features use similar processes with the variables adjusted accordingly. These are valuable lessons the team will use on future projects moving forward.
@@ -35,13 +40,11 @@ The first challenge was to make the Xampp application run correctly in the diffe
 
 ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
+![image](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
+
 ![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-
-## 📚 Article
-- [Medium](https://medium.com/@tejat/guitar-store-inventory-7f6f836b547a "Click me to read my Medium article!")
 
 
 ## 🧑🏻 Authors
