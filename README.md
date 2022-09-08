@@ -1,13 +1,27 @@
 <h1 align="center">Guitar-Shop-Inventory</h1>
+This project aims to design a small-scale non-trivial web-enabled application on PHP and MySQL. The purpose of this project is to manipulate a database with PHP.
 
-
-<p align="center"><b>📇 Details </b></p>
-<p align="center">Performed CRUD operations with a team of 3 members to maintain updated records</p>
-<p align="center">Conducted queries on the my_guitar_shop database, which stores customer information and the inventory of a theoretical guitar store</p>
-<p align="center">Developed databases that support a small-scale non-trivial web-enabled application</p>
 
 ## 📇 Details 
-The source of the network data comes from the Twitter API (developer.twitter.com). From retrieving the data using the Twitter API, I set the target Twitter account to @PlayValorant. I then proceeded to enable the code to look throughout the first 50 friends of the account and then the first 50 of the already checked accounts. By collecting data in this way, it can be determined if the friends selected have a connection with each other based on the following status. The nodes in the network represent the different entities of the first 50 friends and the edges represent the connection the friends have with each other (following status). After I gather this data, I checked to see how many total nodes and edges were represented in the graph. The network resulted in 1528 nodes and 1869 edges.
+The concept of the project is to demonstrate the basic data manipulation of databases. The team will perform CRUD (Create, Read, Update, and Delete) operations using PHP and MySQL. We will conduct this essential operation on the my_guitar_shop database, which stores all the customer’s information and the inventory of a theoretical store. In fact, because of the store’s online and in-store sales, there is a need for the shop to keep its inventory information and customers accurate and up to date. This is why our project will create a small application that anyone, regardless of programming background, could use to perform CRUD operations and maintain the entire database.
+
+![image](https://miro.medium.com/max/1400/0*_1uoIdxy_o6DydXx)
+> My_guitar_shop DB in PHPmyAdmin 1
+
+![SCR-20220908-l3b](https://user-images.githubusercontent.com/51298329/189206462-956534cb-327b-4665-8af6-96b53c5660b9.png)
+> Create Functions for Products
+
+![image](https://miro.medium.com/max/1400/0*SYuyIgBDX4XFQ_OF)
+> Table View for Products
+
+![image](https://miro.medium.com/max/1400/0*-4Y7pOwUIrDck0zC)
+> Update Form
+
+<img width="378" alt="image" src="https://user-images.githubusercontent.com/51298329/189206607-f936e6b1-8d06-4106-a708-11411aa0c426.png">
+> Delete Entry Selector
+
+<img width="692" alt="image" src="https://user-images.githubusercontent.com/51298329/189206672-9b25e020-43ca-4c3f-b47f-683f7f8a753d.png">
+> Final Delete Page
 
 ## 🚫 Lessons Learned
 Overall, we learned how to create a web-based application using PHP and MySQL effectively. More importantly, we now better understand the concept of a primary key in the database. You cannot delete a primary key from one table without removing all the dependencies that other tables have on that key. While the class was focused on PHP, most of the team picked up a lot of new knowledge regarding SQL operations and database design management. We also learned how to make the code modular and recyclable to program and debug efficiently. Much of the features use similar processes with the variables adjusted accordingly. These are valuable lessons the team will use on future projects moving forward.
